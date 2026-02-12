@@ -36,11 +36,7 @@
 
 <br/>
 
-<h3 align="center">📊 Power Levels</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xristp&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&theme=radical&hide_border=true&bg_color=161b22&langs_count=6" height="160" alt="languages graph" />
-</div>
+
 
 <br/>
 
