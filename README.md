@@ -1,76 +1,59 @@
 <div align="center">
-  <h1><a href="https://prayreadgrow.com" target="_blank">Xrhstos Polypathelis</a></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;Architect+of+PrayReadGrow.com;TypeScript+Specialist&font=Inter&center=true&width=500&height=40&color=007ACC&vCenter=true&size=20" alt="Typing SVG" />
-  </a>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=PLAYER+SELECT:+XRHSTOS;CURRENT+MISSION:+PRAYREADGROW;STATUS:+BUILDING+THE+FUTURE...&font=Press+Start+2P&center=true&width=600&height=50&color=F7DF1E&vCenter=true&size=18" alt="Retro Header" />
+
   <br/>
 
-  <a href="mailto:polipaxrhstos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-polipaxrhstos%40gmail.com-181717?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/Portfolio-PrayReadGrow.com-000000?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xristp&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
   </a>
 </div>
 
 <br/>
-<hr/>
 <br/>
 
-### <img src="https://img.shields.io/badge/-FEATURED_WORK-007ACC?style=flat&logoColor=white" height="25">
-
-> **[PrayReadGrow.com](https://prayreadgrow.com)**
-> 
-> A spiritual growth platform engineered for consistency. Built with a focus on performance, scalability, and automated content delivery.
-
-<div align="left">
-  <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=System%20Status&style=flat-square&up_color=success&up_message=Operational&url=https%3A%2F%2Fprayreadgrow.com" />
-  </a>
-  <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-success?style=flat-square&logo=lighthouse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Serverless-blueviolet?style=flat-square&logo=vercel&logoColor=white" />
-</div>
-
-<br/>
-
-* ![Core](https://img.shields.io/badge/Core-Daily_Content_Engine-gray?style=flat-square) **Automated delivery system.**
-* ![Data](https://img.shields.io/badge/Data-User_Analytics-gray?style=flat-square) **Tracking streaks and reading progress.**
-* ![UI/UX](https://img.shields.io/badge/UI%2FUX-Mobile_First_Design-gray?style=flat-square) **Fully responsive interface.**
-
-<br/>
-<br/>
-
-### <img src="https://img.shields.io/badge/-ENGINEERING_STACK-000000?style=flat&logoColor=white" height="25">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<div align="center">
+  <h2>🕹️ Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
   
-  <br/>
+  <a href="https://prayreadgrow.com">
+    <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
+  </a>
   
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <p><i>"A next-gen spiritual growth platform engineered for consistency."</i></p>
+  
+  <img src="https://img.shields.io/badge/SPEED-100%25-brightgreen?style=flat-square&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEVEL-MAX-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLASS-SSR-purple?style=flat-square&logo=next.js&logoColor=white" />
 </div>
 
 <br/>
 
-### <img src="https://img.shields.io/badge/-ACTIVITY_METRICS-333333?style=flat&logoColor=white" height="25">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xristp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages graph" />
+<h3 align="center">⚔️ Weapons of Choice</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
+  </a>
 </div>
 
 <br/>
 
+<h3 align="center">📊 Power Levels</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xristp&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&theme=radical&hide_border=true&bg_color=161b22&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<h3 align="center">👾 Contribution Grid</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+<br/>
+<br/>
+
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" width="80%" alt="Jokes Card" />
+</div>
