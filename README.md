@@ -1,83 +1,76 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Xrhstos_Polypathelis-Full_Stack_Engineer-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
-
-  <br />
-  <br />
-
+  <h1><a href="https://prayreadgrow.com" target="_blank">Xrhstos Polypathelis</a></h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+PrayReadGrow.com;TypeScript+%26+Next.js+Expert;Delivering+Scalable+Solutions&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;Architect+of+PrayReadGrow.com;TypeScript+Specialist&font=Inter&center=true&width=500&height=40&color=007ACC&vCenter=true&size=20" alt="Typing SVG" />
   </a>
   
   <br/>
 
   <a href="mailto:polipaxrhstos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-polipaxrhstos%40gmail.com-181717?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/Website-PrayReadGrow.com-black?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-PrayReadGrow.com-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 <br/>
+<hr/>
 <br/>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/FEATURED_PRODUCT-PrayReadGrow.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+### <img src="https://img.shields.io/badge/-FEATURED_WORK-007ACC?style=flat&logoColor=white" height="25">
 
-> **A modern spiritual growth platform built for consistency and depth.**
-
-<div align="left">
-  <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=System_Status&style=for-the-badge&up_color=success&up_message=Operational&url=https%3A%2F%2Fprayreadgrow.com" />
-  <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-success?style=for-the-badge&logo=lighthouse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Serverless-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
-<br />
-
-**Key Engineering Features:**
-* **Daily Content Engine:** Automated content delivery system via Next.js.
-* **User Analytics:** Tracking growth, reading streaks, and retention.
-* **Performance:** Fully optimized SSR (Server Side Rendering) for speed.
+> **[PrayReadGrow.com](https://prayreadgrow.com)**
+> 
+> A spiritual growth platform engineered for consistency. Built with a focus on performance, scalability, and automated content delivery.
 
 <div align="left">
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/VISIT_LIVE_APP-Click_Here-black?style=for-the-badge" />
+    <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=System%20Status&style=flat-square&up_color=success&up_message=Operational&url=https%3A%2F%2Fprayreadgrow.com" />
   </a>
+  <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-success?style=flat-square&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Serverless-blueviolet?style=flat-square&logo=vercel&logoColor=white" />
 </div>
+
+<br/>
+
+* ![Core](https://img.shields.io/badge/Core-Daily_Content_Engine-gray?style=flat-square) **Automated delivery system.**
+* ![Data](https://img.shields.io/badge/Data-User_Analytics-gray?style=flat-square) **Tracking streaks and reading progress.**
+* ![UI/UX](https://img.shields.io/badge/UI%2FUX-Mobile_First_Design-gray?style=flat-square) **Fully responsive interface.**
 
 <br/>
 <br/>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/ENGINEERING-Tech_Stack-36BCF7?style=for-the-badge&logo=codepen&logoColor=white" />
-</div>
+### <img src="https://img.shields.io/badge/-ENGINEERING_STACK-000000?style=flat&logoColor=white" height="25">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  
   <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </div>
 
 <br/>
-<br/>
+
+### <img src="https://img.shields.io/badge/-ACTIVITY_METRICS-333333?style=flat&logoColor=white" height="25">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/DATA-Contribution_Activity-36BCF7?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xristp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages graph" />
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xristp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-</div>
