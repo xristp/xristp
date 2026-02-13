@@ -12,7 +12,7 @@
   <br/>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xristp&label=TOTAL+VISITS&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
 
 <br/>
