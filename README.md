@@ -14,7 +14,7 @@
 <div align="center">
   <h3> PLAYER STATS</h3>
   
-  <img src="https://img.shields.io/badge/LEVEL-21-blue?style=flat-square&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/AGE-21-blue?style=flat-square&logo=clock&logoColor=white" />
   
   <a href="https://www.unipi.gr/unipi/en/">
     <img src="https://img.shields.io/badge/UNIVERSITY-University_of_Piraeus-orange?style=flat-square&logo=google-scholar&logoColor=white" />
