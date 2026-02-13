@@ -3,27 +3,36 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <h1>Xrhstos Polypathelis</h1>
+
+  <a href="mailto:polipaxrhstos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-polipaxrhstos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3> PLAYER STATS</h3>
+  <h3>👤 PLAYER STATS</h3>
   
   <img src="https://img.shields.io/badge/LEVEL-21-blue?style=flat-square&logo=clock&logoColor=white" />
   
   <a href="https://www.unipi.gr/unipi/en/">
-    <img src="https://img.shields.io/badge/GUILD-University_of_Piraeus-orange?style=flat-square&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/UNIVERSITY-University_of_Piraeus-orange?style=flat-square&logo=google-scholar&logoColor=white" />
   </a>
   
   <img src="https://img.shields.io/badge/CLASS-Informatics_Student-black?style=flat-square&logo=code&logoColor=white" />
 </div>
 
-
+<br/>
 
 <div align="center">
-  <h2> Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
+  <h2>🚀 Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
   
   <a href="https://prayreadgrow.com">
     <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
