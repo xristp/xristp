@@ -9,12 +9,6 @@
     <img src="https://img.shields.io/badge/Email-polipaxrhstos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <br/>
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=xristp&label=TOTAL+VISITS&style=flat-square&color=brightgreen" alt="Profile Views" />
-</div>
-
 <br/>
 
 <div align="center">
