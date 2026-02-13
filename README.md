@@ -29,8 +29,7 @@
   <h2> Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
   
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
-  </a>
+  
   
 
 <h3 align="center"> Weapons of Choice</h3>
