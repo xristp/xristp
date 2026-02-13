@@ -23,6 +23,16 @@ I operate at the intersection of **Full-Stack Engineering** and **Digital Entrep
 
 ---
 
+### Featured Project: [PrayReadGrow.com](https://prayreadgrow.com)
+**Founder & Lead Engineer**
+
+* **Product Architecture:** Leveraged **Next.js** App Router and Server Components to achieve high-performance Core Web Vitals.
+* **Engineering Excellence:** Engineered a robust codebase using **TypeScript**, ensuring runtime stability and developer velocity.
+* **UI/UX Strategy:** Implemented a modular UI architecture using **Tailwind CSS** for consistent design language and rapid iteration.
+* **Global Deployment:** Orchestrated automated deployment workflows via **Vercel** with global edge distribution.
+
+---
+
 ### Professional Competencies
 
 **Engineering Stack**
@@ -38,7 +48,12 @@ Automated workflows and scalable distribution.
 <div align="left">
   <p align="left" style="font-family: sans-serif; font-size: 14px; color: #AAAAAA; margin-bottom: 8px;">Primary Stack Distribution</p>
   <table width="100%" style="border-collapse: collapse; border: none;">
- 
+    <tr>
+      <td width="84.7%" bgcolor="#3178C6" height="8px" style="border-radius: 4px 0 0 4px;"></td>
+      <td width="13.4%" bgcolor="#F7DF1E" height="8px"></td>
+      <td width="1.2%" bgcolor="#563D7C" height="8px"></td>
+      <td width="0.7%" bgcolor="#E34F26" height="8px" style="border-radius: 0 4px 4px 0;"></td>
+    </tr>
   </table>
   <p align="left" style="font-family: sans-serif; font-size: 12px; margin-top: 8px;">
     <span style="color: #3178C6;">●</span> TypeScript 84.7% &nbsp;&nbsp; 
@@ -54,16 +69,6 @@ Automated workflows and scalable distribution.
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
   </a>
 </div>
-
----
-
-### Featured Project: [PrayReadGrow.com](https://prayreadgrow.com)
-**Founder & Lead Engineer**
-
-* **Product Architecture:** Leveraged **Next.js** App Router and Server Components to achieve high-performance Core Web Vitals.
-* **Engineering Excellence:** Engineered a robust codebase using **TypeScript**, ensuring runtime stability and developer velocity.
-* **UI/UX Strategy:** Implemented a modular UI architecture using **Tailwind CSS** for consistent design language and rapid iteration.
-* **Global Deployment:** Orchestrated automated deployment workflows via **Vercel** with global edge distribution.
 
 ---
 
