@@ -1,3 +1,4 @@
+![Name](https://readme-typing-svg.herokuapp.com/?lines=Xrhstos+Polypathelis&font=Fira+Code&center=true&width=600&height=120&color=F7DF1E&vCenter=true&size=60&weight=bold&pause=10000)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=PLAYER+SELECT:+XRHSTOS;CURRENT+MISSION:+PRAYREADGROW;STATUS:+BUILDING+THE+FUTURE...&font=Press+Start+2P&center=true&width=600&height=50&color=F7DF1E&vCenter=true&size=18" alt="Retro Header" />
 
@@ -5,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLYPATHELIS;BUILDING+PRAYREADGROW.COM&font=Press+Start+2P&center=true&width=600&height=100&color=36BCF7&vCenter=true&size=35" alt="Glitch Name" /></a>
+
 <br/>
 <br/>
 
