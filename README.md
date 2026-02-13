@@ -1,49 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPA;SOFTWARE+ENGINEER;BUILDING+PRAYREADGROW&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPA;SOFTWARE+ENGINEER;ARCHITECTING+DIGITAL+EXPERIENCES&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
+</div>
 
-  <p align="center">
-    <strong>Informatics @ University of Piraeus</strong> • <strong>Full-Stack Engineering</strong>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Informatics-University%20of%20Piraeus-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Full--Stack%20Architecture-white?style=flat-square" />
+</p>
 
-  <p align="center">
-    <a href="mailto:polipaxrhstos@gmail.com">
-      <img src="https://img.shields.io/badge/Connect-Email-white?style=flat-square&logo=gmail&logoColor=black" />
-    </a>
-    <a href="https://prayreadgrow.com">
-      <img src="https://img.shields.io/badge/Live-PrayReadGrow-white?style=flat-square&logo=google-chrome&logoColor=black" />
-    </a>
-  </p>
+<p align="center">
+  <a href="mailto:polipaxrhstos@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://prayreadgrow.com">
+    <img src="https://img.shields.io/badge/Portfolio-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### Professional Competencies
+
+**Frontend Engineering**
+Modern, responsive interfaces built with a focus on performance and accessibility.
+> Next.js, React, TypeScript, Tailwind CSS, HTML5, CSS3
+
+**Systems & Deployment**
+Scalable infrastructure and version control management.
+> Git, Vercel, CI/CD Pipelines, VS Code
+
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
+  </a>
 </div>
 
 ---
 
-### The Philosophy
-> "Design is not just what it looks like and feels like. Design is how it works."
-I focus on building highly-performant, accessible, and type-safe web applications. My work bridges the gap between complex backend logic and fluid, intuitive user interfaces.
+### Featured Project: [PrayReadGrow.com](https://prayreadgrow.com)
+**Platform Lead & Lead Engineer**
 
-### Featured Work: [PrayReadGrow.com](https://prayreadgrow.com)
-**A modern platform for spiritual and intellectual discipline.**
-
-* **Performance First:** Optimized with Next.js 14 App Router and React Server Components to achieve sub-second LCP (Largest Contentful Paint).
-* **Engineering Rigor:** Built with a strict TypeScript foundation to ensure runtime stability and maintainability.
-* **Visual Polish:** Leveraging Tailwind CSS for a responsive, high-fidelity UI that prioritizes typography and whitespace.
-* **Infrastructure:** Scaled on Vercel with global edge distribution and automated CI/CD workflows.
-
-### Technical Arsenal
-**Languages & Frameworks:** TypeScript, JavaScript, Next.js, React, Node.js
-
-**Design & Tools:** Tailwind CSS, Framer Motion, Git, VS Code, Vercel
+* **Performance Optimization:** Leveraged **Next.js** App Router and Server Components to achieve high-performance Core Web Vitals.
+* **Type-Safety:** Engineered a robust codebase using **TypeScript**, ensuring runtime stability and developer velocity.
+* **Design Systems:** Implemented a modular UI architecture using **Tailwind CSS** for consistent design language across the platform.
+* **Infrastructure:** Orchestrated automated deployment workflows via **Vercel** with global edge distribution.
 
 ---
 
-### Contribution Graph
+### Engineering Impact
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Contribution Activity" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<br/>
+
 <div align="center">
-  <br />
-  <sub>Built with intentionality. Open for high-impact collaborations.</sub>
+  <img src="https://img.shields.io/badge/Status-Available_for_Strategic_Partnerships-white?style=outline" />
 </div>
