@@ -3,9 +3,9 @@
 
   <br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xristp&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=xristp&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET_REFRESH" alt="trophies" />
+</a>
 </div>
 
 <br/>
