@@ -50,6 +50,4 @@
 <br/>
 <br/>
 
-<div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" width="80%" alt="Jokes Card" />
-</div>
+
