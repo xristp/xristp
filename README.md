@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPATHELIS;FULL+STACK+DEVELOPER;ENTREPRENEUR+%26+ARCHITECT&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPATHELIS;SOFTWARE+ENGINEER;FOUNDER+%26+ARCHITECT&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Informatics-University%20of%20Piraeus-white?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialization-Full--Stack%20Architecture-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Entrepreneurship-white?style=flat-square" />
 </p>
 
 <p align="center">
@@ -12,26 +12,48 @@
     <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/Main%20Project-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Platform-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
 
 ---
 
+### The Vision
+I operate at the intersection of **Full-Stack Engineering** and **Digital Entrepreneurship**. I don't just write code; I build products that solve problems. I believe the ultimate competitive advantage is the ability to architect a scalable system and the business logic behind it simultaneously.
+
+---
+
 ### Professional Competencies
 
-**Engineering & Architecture**
-I build with a product-first mindset, focusing on type-safety, modularity, and high-performance user experiences. 
+**Engineering Stack**
+Modern, responsive interfaces built with a focus on performance, type-safety, and SEO.
 > Next.js, React, TypeScript, Tailwind CSS, HTML5, CSS3
 
-**Operations & Scalability**
-Managing the full lifecycle of a product from local development to global edge distribution.
-> Git, Vercel, CI/CD Pipelines, VS Code
+**Infrastructure & Strategy**
+Automated workflows and scalable distribution.
+> Git, Vercel, CI/CD, Strategic Product Development
 
 <br/>
 
+<div align="left">
+  <p align="left" style="font-family: sans-serif; font-size: 14px; color: #AAAAAA; margin-bottom: 8px;">Primary Stack Distribution</p>
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="84.7%" bgcolor="#3178C6" height="8px" style="border-radius: 4px 0 0 4px;"></td>
+      <td width="13.4%" bgcolor="#F7DF1E" height="8px"></td>
+      <td width="1.2%" bgcolor="#563D7C" height="8px"></td>
+      <td width="0.7%" bgcolor="#E34F26" height="8px" style="border-radius: 0 4px 4px 0;"></td>
+    </tr>
+  </table>
+  <p align="left" style="font-family: sans-serif; font-size: 12px; margin-top: 8px;">
+    <span style="color: #3178C6;">●</span> TypeScript 84.7% &nbsp;&nbsp; 
+    <span style="color: #F7DF1E;">●</span> JavaScript 13.4% &nbsp;&nbsp; 
+    <span style="color: #563D7C;">●</span> CSS 1.2% &nbsp;&nbsp; 
+    <span style="color: #E34F26;">●</span> HTML 0.7%
+  </p>
+</div>
+
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&hide_border=true&theme=transparent&langs_count=4&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&hide_title=true" />
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
@@ -43,10 +65,10 @@ Managing the full lifecycle of a product from local development to global edge d
 ### Featured Project: [PrayReadGrow.com](https://prayreadgrow.com)
 **Founder & Lead Engineer**
 
-* **Product Vision:** Engineered a modern platform for spiritual and intellectual discipline, managing both the technical stack and product roadmap.
-* **Performance Optimization:** Utilized **Next.js** App Router and Server Components to achieve superior Core Web Vitals and SEO rankings.
-* **Architecture:** Developed a strictly typed codebase with **TypeScript**, ensuring long-term maintainability and rapid feature iteration.
-* **Deployment:** Integrated automated CI/CD workflows via **Vercel** to maintain high availability and global performance.
+* **Product Architecture:** Leveraged **Next.js** App Router and Server Components to achieve high-performance Core Web Vitals.
+* **Engineering Excellence:** Engineered a robust codebase using **TypeScript**, ensuring runtime stability and developer velocity.
+* **UI/UX Strategy:** Implemented a modular UI architecture using **Tailwind CSS** for consistent design language and rapid iteration.
+* **Global Deployment:** Orchestrated automated deployment workflows via **Vercel** with global edge distribution.
 
 ---
 
@@ -60,5 +82,5 @@ Managing the full lifecycle of a product from local development to global edge d
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Strategic_Partnerships-white?style=outline" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Strategic_Ventures-white?style=outline" />
 </div>
