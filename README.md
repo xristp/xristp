@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=PLAYER+SELECT:+XRHSTOS;CURRENT+MISSION:+PRAYREADGROW;STATUS:+BUILDING+THE+FUTURE...&font=Press+Start+2P&center=true&width=600&height=50&color=F7DF1E&vCenter=true&size=18" alt="Retro Header" />
-
+</div>
+</br>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Informatics-University%20of%20Piraeus-orange?style=flat-square&logo=google-scholar&logoColor=white" />
