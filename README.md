@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <h3>👤 PLAYER STATS</h3>
+  <h3> PLAYER STATS</h3>
   
   <img src="https://img.shields.io/badge/LEVEL-21-blue?style=flat-square&logo=clock&logoColor=white" />
   
@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
+  <h2> Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
   
   <a href="https://prayreadgrow.com">
     <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
@@ -54,7 +54,7 @@
 
 <br/>
 
-<h3 align="center">⚔️ Weapons of Choice</h3>
+<h3 align="center"> Weapons of Choice</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
@@ -63,7 +63,7 @@
 
 <br/>
 
-<h3 align="center">👾 Contribution Grid</h3>
+<h3 align="center"> Contribution Grid</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg">
