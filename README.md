@@ -28,7 +28,10 @@ Modern, responsive interfaces built with a focus on performance and accessibilit
 Scalable infrastructure and version control management.
 > Git, Vercel, CI/CD Pipelines, VS Code
 
+<br/>
+
 <div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xristp&layout=compact&hide_border=true&theme=transparent&langs_count=4&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&hide_title=true" />
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
