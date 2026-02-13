@@ -5,12 +5,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
-
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:eb4888,100:36bcf7&height=250&section=header&text=Xrhstos%20Polypathelis&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Architect%20of%20PrayReadGrow.com&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&fontAlign=50)
 <br/>
 <br/>
 
 <div align="center">
-  <h2>🕹️ Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
+  <h2> Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
   
   <a href="https://prayreadgrow.com">
     <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
