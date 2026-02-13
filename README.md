@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:eb4888,100:36bcf7&height=250&section=header&text=Xrhstos%20Polypathelis&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Architect%20of%20PrayReadGrow.com&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&fontAlign=50)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLYPATHELIS;BUILDING+PRAYREADGROW.COM&font=Press+Start+2P&center=true&width=600&height=100&color=36BCF7&vCenter=true&size=35" alt="Glitch Name" /></a>
 <br/>
 <br/>
 
