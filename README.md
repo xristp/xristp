@@ -32,21 +32,6 @@
     <img src="https://img.shields.io/website?down_color=red&down_message=SYSTEM%20FAILURE&label=SERVER%20STATUS&style=for-the-badge&up_color=success&up_message=ONLINE&url=https%3A%2F%2Fprayreadgrow.com&logo=vercel&logoColor=white" />
   </a>
   
-  <br/><br/>
-  
-  <p align="center" width="80%">
-    <i>"A next-gen spiritual growth platform engineered for consistency."</i>
-    <br/>
-    <b>MISSION INTEL:</b> Developing a scalable web application to help users track reading habits and spiritual progress. 
-    Focusing on <b>High Performance</b> and <b>User Experience</b>.
-  </p>
-
-  <img src="https://img.shields.io/badge/SPEED-100%25-brightgreen?style=flat-square&logo=lighthouse&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEVEL-MAX-blue?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLASS-SSR-purple?style=flat-square&logo=next.js&logoColor=white" />
-</div>
-
-<br/>
 
 <h3 align="center"> Weapons of Choice</h3>
 <div align="center">
