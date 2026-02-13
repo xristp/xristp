@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/Portfolio-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Main Page-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
 
