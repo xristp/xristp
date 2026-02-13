@@ -6,10 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=xristp&label=PLAYERS+ONLINE&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Xrhstos+Polypathelis;Full+Stack+Engineer;Creator+of+PrayReadGrow.com&font=Fira+Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=30" alt="Typing SVG" />
-</a>
-<br/>
+
 
 <div align="center">
   <h2> Main Quest: <a href="https://prayreadgrow.com">PrayReadGrow.com</a></h2>
