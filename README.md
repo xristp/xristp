@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPATHELIS;SOFTWARE+ENGINEER;ARCHITECTING+DIGITAL+EXPERIENCES&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPATHELIS;FULL+STACK+DEVELOPER;ENTREPRENEUR+%26+ARCHITECT&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://prayreadgrow.com">
-    <img src="https://img.shields.io/badge/Main Page-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Main%20Project-PrayReadGrow-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
 
@@ -20,12 +20,12 @@
 
 ### Professional Competencies
 
-**Frontend Engineering**
-Modern, responsive interfaces built with a focus on performance and accessibility.
+**Engineering & Architecture**
+I build with a product-first mindset, focusing on type-safety, modularity, and high-performance user experiences. 
 > Next.js, React, TypeScript, Tailwind CSS, HTML5, CSS3
 
-**Systems & Deployment**
-Scalable infrastructure and version control management.
+**Operations & Scalability**
+Managing the full lifecycle of a product from local development to global edge distribution.
 > Git, Vercel, CI/CD Pipelines, VS Code
 
 <br/>
@@ -41,12 +41,12 @@ Scalable infrastructure and version control management.
 ---
 
 ### Featured Project: [PrayReadGrow.com](https://prayreadgrow.com)
-**Platform Lead & Lead Engineer**
+**Founder & Lead Engineer**
 
-* **Performance Optimization:** Leveraged **Next.js** App Router and Server Components to achieve high-performance Core Web Vitals.
-* **Type-Safety:** Engineered a robust codebase using **TypeScript**, ensuring runtime stability and developer velocity.
-* **Design Systems:** Implemented a modular UI architecture using **Tailwind CSS** for consistent design language across the platform.
-* **Infrastructure:** Orchestrated automated deployment workflows via **Vercel** with global edge distribution.
+* **Product Vision:** Engineered a modern platform for spiritual and intellectual discipline, managing both the technical stack and product roadmap.
+* **Performance Optimization:** Utilized **Next.js** App Router and Server Components to achieve superior Core Web Vitals and SEO rankings.
+* **Architecture:** Developed a strictly typed codebase with **TypeScript**, ensuring long-term maintainability and rapid feature iteration.
+* **Deployment:** Integrated automated CI/CD workflows via **Vercel** to maintain high availability and global performance.
 
 ---
 
