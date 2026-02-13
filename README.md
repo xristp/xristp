@@ -3,7 +3,7 @@
 
   <br/>
 
-  <h1>Xrhstos Polypathelis</h1>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontAlign=50&height=100&text=Xrhstos%20Polypathelis&fontSize=55&fontColor=ffffff&font=cinzel" alt="Xrhstos Polypathelis" />
 
   <a href="mailto:polipaxrhstos@gmail.com">
     <img src="https://img.shields.io/badge/Email-polipaxrhstos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
