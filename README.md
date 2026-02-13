@@ -1,53 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=PLAYER+SELECT:+XRHSTOS;CURRENT+MISSION:+PRAYREADGROW;STATUS:+BUILDING+THE+FUTURE...&font=Press+Start+2P&center=true&width=600&height=50&color=F7DF1E&vCenter=true&size=18" alt="Retro Header" />
-</div>
-</br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XRHSTOS+POLIPA;SOFTWARE+ENGINEER;BUILDING+PRAYREADGROW&font=Inter&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22" alt="Header" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Informatics-University%20of%20Piraeus-orange?style=flat-square&logo=google-scholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <strong>Informatics @ University of Piraeus</strong> • <strong>Full-Stack Engineering</strong>
   </p>
 
   <p align="center">
     <a href="mailto:polipaxrhstos@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Connect-Email-white?style=flat-square&logo=gmail&logoColor=black" />
     </a>
     <a href="https://prayreadgrow.com">
-      <img src="https://img.shields.io/badge/Project-Live_Site-4433ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Live-PrayReadGrow-white?style=flat-square&logo=google-chrome&logoColor=black" />
     </a>
   </p>
 </div>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/stackshare/white" width="20" height="20" /> Technical Arsenal
-<div align="center">
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vercel,git,vscode&theme=dark" />
-  </a>
-</div>
+### The Philosophy
+> "Design is not just what it looks like and feels like. Design is how it works."
+I focus on building highly-performant, accessible, and type-safe web applications. My work bridges the gap between complex backend logic and fluid, intuitive user interfaces.
 
-<br/>
+### Featured Work: [PrayReadGrow.com](https://prayreadgrow.com)
+**A modern platform for spiritual and intellectual discipline.**
 
-### <img src="https://cdn.simpleicons.org/rocket/white" width="20" height="20" /> Featured Engineering: [PrayReadGrow.com](https://prayreadgrow.com)
-> **Building a modern platform for spiritual and intellectual discipline.**
+* **Performance First:** Optimized with Next.js 14 App Router and React Server Components to achieve sub-second LCP (Largest Contentful Paint).
+* **Engineering Rigor:** Built with a strict TypeScript foundation to ensure runtime stability and maintainability.
+* **Visual Polish:** Leveraging Tailwind CSS for a responsive, high-fidelity UI that prioritizes typography and whitespace.
+* **Infrastructure:** Scaled on Vercel with global edge distribution and automated CI/CD workflows.
 
-* **Core Stack:** Developed with **Next.js 14**, utilizing Server Components for optimal SEO.
-* **Architecture:** Type-safe development with **TypeScript** and modular **Tailwind CSS**.
-* **Deployment:** Automated CI/CD pipeline via **Vercel** with global edge distribution.
+### Technical Arsenal
+**Languages & Frameworks:** TypeScript, JavaScript, Next.js, React, Node.js
 
-<br/>
+**Design & Tools:** Tailwind CSS, Framer Motion, Git, VS Code, Vercel
 
-### <img src="https://cdn.simpleicons.org/github/white" width="20" height="20" /> Development Activity
+---
+
+### Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xristp/xristp/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<br/>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-00ff00?style=outline" />
+  <br />
+  <sub>Built with intentionality. Open for high-impact collaborations.</sub>
 </div>
